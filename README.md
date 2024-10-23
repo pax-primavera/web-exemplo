@@ -47,27 +47,27 @@ npm test
 
 web-example/
 ├── public/
-│ └── index.html
+│   └── index.html
 ├── src/
-│ ├── assets/
-│ ├── components/
-│ │ └── LoginButton
-│ │ ├── LoginCard
-│ │ ├── Logo
-│ │ ├── PasswordInput
-│ │ ├── TextInput
-│ ├── pages/
-│ │ └── Login.js
-│ │ ├── Login.css
-│ ├── services/
-│ │ ├── get/
-│ │ │ ├── Login.js
-│ │ └── post/
-│ │ ├── Login.js
-│ │ ├── url.js
-│ ├── tests/
-│ │ └── Login.test.js
-│ ├── App.js
-│ ├── index.js
-│ └── styles.css
+│   ├── assets/
+│   ├── components/
+│   │   ├── LoginButton/
+│   │   ├── LoginCard/
+│   │   ├── Logo/
+│   │   ├── PasswordInput/
+│   │   └── TextInput/
+│   ├── pages/
+│   │   └── Login.js
+│   │   └── Login.css
+│   ├── services/
+│   │   ├── get/
+│   │   │   └── Login.js
+│   │   └── post/
+│   │       ├── Login.js
+│   │       └── url.js
+│   ├── tests/
+│   │   └── Login.test.js
+│   ├── App.js
+│   ├── index.js
+│   └── styles.css
 └── package.json
