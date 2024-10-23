@@ -1,6 +1,6 @@
 # Web Example
 
-Este é um projeto de exemplo desenvolvido utilizando React e Tailwind CSS, destinado ao uso exclusivo em desktop. O projeto inclui uma página de login com autenticação, utilizando mock para simular a API.
+Este é um projeto de exemplo desenvolvido utilizando React e CSS, destinado ao uso exclusivo em desktop. O projeto inclui uma página de login com autenticação, utilizando mock para simular a API.
 
 ## Tabela de Conteúdos
 
