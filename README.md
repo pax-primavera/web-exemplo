@@ -44,7 +44,7 @@ npm test
 ```
 
 ## Estrutura do Projeto
-
+```
 web-example/
 ├── public/
 │   └── index.html
@@ -71,3 +71,4 @@ web-example/
 │   ├── index.js
 │   └── styles.css
 └── package.json
+```
