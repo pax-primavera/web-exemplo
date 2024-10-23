@@ -1,0 +1,15 @@
+.login-button {
+    background-color: #0b3c26;
+    color: #FFFFFF;
+    font-family: 'Montserrat';
+    margin-top: 20px;
+}
+
+.version-text {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 13px;
+    margin-top: 10%;
+    margin-bottom: 0%;
+    color: black;
+}

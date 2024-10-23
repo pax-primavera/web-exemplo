@@ -1,0 +1,11 @@
+.logo-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.logo-image {
+    width: 30%;
+    height: auto;
+}
